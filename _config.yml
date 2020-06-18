@@ -1,8 +1,8 @@
 # site settings
-title: My Webpage
-subtitle: by Aditya
+title: Aditya Iyengar
+subtitle: Webpage
 email: adityaiyengar@iitb.ac.in
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Welcome to my personal webpage. <br> Here you can get to know all about me!
 baseurl: #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
