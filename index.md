@@ -2,9 +2,9 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Aditya'
-description: null
+description: 'Welcome to my personal webpage.'
 image: null
-author: null
+author: "Aditya Iyengar"
 show_tile: false
 ---
 
