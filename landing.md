@@ -13,11 +13,13 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>My Projects</h2>
+			<h2>Interests</h2>
 		</header>
 		<p>
 			As an undergraduate student, I have been exploring several fields in order to understand where my interests lie.
+			<br>
 			As of now, my research interests mainly lie in the fields of <strong> Machine Learning </strong>,					<strong>Financial Modelling</strong>, <strong> Data Science </strong> and <strong> Fluid Mechanics </strong>.
+			Some of these 
 		</p>
 	</div>
 </section>
