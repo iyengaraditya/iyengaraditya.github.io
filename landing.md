@@ -13,9 +13,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>My Projects</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>
+			As an undergraduate student, I have been exploring several fields in order to understand where my interests lie.
+			As of now, my research interests mainly lie in the fields of <strong> Machine Learning </strong>,					<strong>Financial Modelling</strong>, <strong> Data Science </strong> and <strong> Fluid Mechanics </strong>.
+		</p>
 	</div>
 </section>
 
