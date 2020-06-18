@@ -1,6 +1,6 @@
 # site settings
 title: Aditya Iyengar
-subtitle: Webpage
+subtitle:
 email: adityaiyengar@iitb.ac.in
 description: Welcome to my personal webpage. <br> Here you can get to know all about me!
 baseurl: #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
