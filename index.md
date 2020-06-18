@@ -5,7 +5,7 @@ landing-title: 'Hi, my name is Aditya'
 description: 'Welcome to my personal webpage.'
 image: null
 author: "Aditya Iyengar"
-show_tile: true
+show_tile: false
 ---
 
 A little bit about me here.
