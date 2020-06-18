@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: Projects
 layout: landing
 description: 'Here are some of the more interesting things I've done over the course of my stay at IIT Bombay.'
 image: assets/images/pic07.jpg
