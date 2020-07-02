@@ -90,8 +90,9 @@ nav-menu: true
 		<header class="major">
 			<h2>Other Projects</h2>
 		</header>
-		<p>In a world without pandemics, I would've been working at the <b>THTF Lab</b> at IIT Bombay, designing a fluid flow calibration system for venturimeters and orificemeters.</p>
-		<p>I keep trying out many small, fun projects - particularly over lockdown - so do check this section for updates. You can also check my GitHub (using the link at the bottom of the page) for some of the other interesting things I do!
+		<p>Had I been living in a world without pandemics (sigh), I would've been working in my free time at the <b>THTF Lab</b> at IIT Bombay, designing a fluid flow calibration system for venturimeters and orificemeters.</p>
+		<p>I was also nominated by IITB to attend a summer programme at the Technical University of Denmark during the summer of 2020, however, owing to the fact that I do not reside in aforementioned world, this couldn't happen.</p>
+		<p>I usually try out many small, fun projects - particularly during this extended break - so do check this section for updates. You can also look me up on GitHub (using the link at the bottom of the page) to check out some of the other interesting things I do!
 		</p>
 		<ul class="actions">
 			<li><a href="index.html" class="button next">HOME</a></li>
