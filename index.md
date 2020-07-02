@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hello! I'm Aditya'
+landing-title: 'Hello, I'm Aditya!'
 description: 'Welcome to my personal webpage.'
 image: null
 author: "Aditya Iyengar"
