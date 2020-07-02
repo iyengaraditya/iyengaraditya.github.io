@@ -56,7 +56,7 @@ nav-menu: true
 					<h3>Workout Classification</h3>
 				</header>
 				<p>
-				This project analyses a large amount of data collected from personal fitness trackers and tries to predict the activity that the user was performing. An ensemble of machine learning techniques have been used, such as <emph>Decision Trees</emph>, <emph>SVMs</emph>, <emph>Random Forests</emph> and <emph>Gradient Boosting</emph>. Testing accuracy was decent, about 80%. For more details about the data used and the algorithms employed, please do check out the project report at the link below.
+				This project analyses a large amount of data collected from personal fitness trackers and tries to predict the activity that the user was performing. An ensemble of machine learning techniques have been used, such as <em>Decision Trees</em>, <em>SVMs</em>, <em>Random Forests</em> and <em>Gradient Boosting</em>. Testing accuracy was decent, about 80%. For more details about the data used and the algorithms employed, please do check out the project report at the link below.
 				</p>
 				<ul class="actions">
 					<li><a href="https://rpubs.com/adityaiyengar/599637" class="button">Learn more!</a></li>
