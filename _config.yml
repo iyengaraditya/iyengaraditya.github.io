@@ -2,14 +2,14 @@
 title: Aditya Iyengar
 subtitle:
 email: adityaiyengar@iitb.ac.in
-description: Welcome to my personal webpage. <br> Here you can get to know all about me!
+description: Welcome to my personal webpage. <br> This website is still under development!
 baseurl: #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Hostel 5
+street_address: Room 7, Hostel 5, IIT Bombay
 city: Mumbai
 state: MH
-zip_code: 400072
+zip_code: 400076
 country: India
 phone: +917888044850
 
