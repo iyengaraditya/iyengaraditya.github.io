@@ -38,7 +38,7 @@ nav-menu: true
 					<h3>Football Result Prediction</h3>
 				</header>
 				<p>
-					This is a neural network powered result prediction model for the English Premier League 2019-20. Having analysed more than twelve seasons of head-to-head data along with an exhaustive player rating database, the model predicts football match results. The accuracy achieved of 52%, at the time of writing this, is very close to the predictions of reputed bookmakers. <br> This was a part of the course project for CS 419, although I extended it far beyond the duration of the course. I've also authored a detailed report on the same, if you're interested, you can view it at the link below!
+					This is a neural network powered result prediction model for the English Premier League 2019-20. Having analysed more than twelve seasons of head-to-head data along with an exhaustive player rating database, the model predicts football match results. The accuracy achieved of 52%, at the time of writing this, is very close to the predictions of reputed bookmakers. <br> This was a part of the course project for CS 419, although I extended it far beyond the duration of the course. I've also authored a detailed report on the same, if you're interested, you can view it by clicking on the link below!
 				</p>
 				<ul class="actions">
 					<li><a href="Football_Predictions.pdf" class="button">Learn more!</a></li>
@@ -56,7 +56,7 @@ nav-menu: true
 					<h3>Workout Classification</h3>
 				</header>
 				<p>
-				This project analyses a large amount of data collected from personal fitness trackers and tries to predict the activity that the user was performing. An ensemble of machine learning techniques have been used, such as <em>Decision Trees</em>, <em>SVMs</em>, <em>Random Forests</em> and <em>Gradient Boosting</em>. Testing accuracy was decent, about 80%. For more details about the data used and the algorithms employed, please do check out the project report at the link below.
+				This project analyses a large amount of data collected from personal fitness trackers and tries to predict the activity that the user was performing. An ensemble of machine learning techniques has been used, such as <em>Decision Trees</em>, <em>SVMs</em>, <em>Random Forests</em> and <em>Gradient Boosting</em>. Testing accuracy was decent, about 80%. For more details about the data used and the algorithms employed, please do check out the project report at the link below.
 				</p>
 				<ul class="actions">
 					<li><a href="https://rpubs.com/adityaiyengar/599637" class="button">Learn more!</a></li>
@@ -65,17 +65,19 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<a class="image">
+			<img src="{% link assets/images/casting.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Modelling a Gear Casting</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This is a part of the course project for ME 206. The project involved performing simulations using the <b>E-Foundry</b> software to determine the optimal riser and mold parameters for the casting of several industry-grade alloy steel products. The product I chose was a gear. The project was evaluated on the basis of the effects of hotspots during casting as well as feeder aids and other remedial actions suggested. Further details and the project report can be found at the link below.
+				
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://docs.google.com/presentation/d/1Ui5v2QI-F3VmREjlDX7FpPEPGOF2X4_HpGQklKIgjjI/edit?usp=sharing" class="button">Learn more!</a></li>
 				</ul>
 			</div>
 		</div>
