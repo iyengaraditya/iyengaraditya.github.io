@@ -18,7 +18,7 @@ nav-menu: true
 		<p>
 			As an undergraduate student, I have been exploring several fields in order to understand where my interests lie.
 			<br>
-			As of now, my research interests mainly lie in the fields of <strong>Machine Learning</strong>,					<strong>Financial Modelling</strong>, <strong> Data Science </strong> and <strong> Fluid Mechanics </strong>.
+			As of now, my research interests mainly lie in the fields of <strong>Machine Learning</strong>,	<strong>Reinforcement Learning</strong>, <strong>Financial Modelling</strong>, <strong> Data Science </strong> and <strong> Fluid Mechanics </strong>.
 			<br>
 			Here are some of the projects I've undetaken over the course of my stay at IIT Bombay. Some of these are part of
 			coursework while others are fun, pet projects. Feel free to explore!
@@ -88,11 +88,13 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Other Projects</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>In a world without pandemics, I would've been working at the <b>THTF Lab</b> at IIT Bombay, designing a fluid flow calibration system for venturimeters and orificemeters.</p>
+		<p>I keep trying out many small, fun projects - particularly over lockdown - so do check this section for updates. You can also check my GitHub (using the link at the bottom of the page) for some of the other interesting things I do!
+		</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="index.html" class="button next">HOME</a></li>
 		</ul>
 	</div>
 </section>
