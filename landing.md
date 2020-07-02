@@ -47,17 +47,19 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Workout Classification</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+				This project analyses a large amount of data collected from personal fitness trackers and tries to predict the activity that the user was performing. An ensemble of machine learning techniques have been used, such as <emph>Decision Trees</emph>, <emph>SVMs</emph>, <emph>Random Forests</emph> and <emph>Gradient Boosting</emph>. Testing accuracy was decent, about 80%. For more details about the data used and the algorithms employed, please do check out the project report at the link below.
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://rpubs.com/adityaiyengar/599637" class="button">Learn more!</a></li>
 				</ul>
 			</div>
 		</div>
