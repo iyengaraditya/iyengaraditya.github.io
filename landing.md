@@ -73,7 +73,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Modelling a Gear Casting</h3>
 				</header>
-				<p>This is a part of the course project for ME 206. The project involved performing simulations using the <b>E-Foundry</b> software to determine the optimal riser and mold parameters for the casting of several industry-grade alloy steel products. The product I chose was a gear. The project was evaluated on the basis of the effects of hotspots during casting as well as feeder aids and other remedial actions suggested. Further details and the project report can be found at the link below.
+				<p>This was a part of the course project for ME 206. The project involved performing simulations using the <b>E-Foundry</b> software to determine the optimal riser and mold parameters for the casting of several industry-grade alloy steel products. The product I chose was a gear. The project was evaluated on the basis of the effects of hotspots during casting as well as feeder aids and other remedial actions suggested. Further details and the project report can be found at the link below.
 				
 				</p>
 				<ul class="actions">
