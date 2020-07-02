@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Aditya!'
-description: 'Welcome to my personal webpage. This page is under construction!'
+landing-title: 'Hello! I'm Aditya'
+description: 'Welcome to my personal webpage.'
 image: null
 author: "Aditya Iyengar"
 show_tile: false
