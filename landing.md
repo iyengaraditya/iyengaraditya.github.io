@@ -38,8 +38,7 @@ nav-menu: true
 					<h3>Football Result Prediction</h3>
 				</header>
 				<p>
-					This is a neural network powered result prediction model for the English Premier League 2020.
-					I managed to use data
+					This is a neural network powered result prediction model for the English Premier League 2019-20. Having analysed more than twelve seasons of head-to-head data along with an exhaustive player rating database, the model predicts football match results. The accuracy achieved of 52%, at the time of writing this, is very close to the predictions of reputed bookmakers. This was a part of the course project for CS 419, although I extended it far beyond the duration of the course. I've also authored a detailed report on the same, if you're interested, you can view it at the link below!
 				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
