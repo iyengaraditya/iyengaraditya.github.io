@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Academics
 description:
 image: assets/images/acads.jpg
