@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Academics
-description:
+description: All about courses, of course
 image: assets/images/acads.jpg
 nav-menu: true
 ---
@@ -89,6 +89,27 @@ nav-menu: true
 				<li>Introduction to Organic Chemistry</li>
 				<li>Introduction to Inorganic Chemistry</li>
 				</ol></li>
+		</ul>
+	</div>
+</section>
+
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>Online Courses</h2>
+		</header>
+		<p> I've always liked exploring new stuff online and quarantine has provided a golden opportunity to further that. Here is a selection of the courses/specializations I've completed or I'm currently doing online (almost all of them are in the Summer of 2020).
+		</p>
+		<ul>
+			<li> <a href = "https://www.coursera.org/specializations/jhu-data-science">Data Science Specialization</a> </li>
+			<li> <a href = "https://www.coursera.org/learn/web-development">Introduction to Web Development</a> </li>
+			<li> <a href = "https://www.coursera.org/specializations/tensorflow-in-practice">TensorFlow in Practice</a> </li>
+			<li> <a href = "https://www.coursera.org/specializations/deep-learning?=">Deep Learning Specialization</a> </li>
+			<li> <a href = "https://www.coursera.org/specializations/reinforcement-learning?">Reinforcement Learning</a> </li>
+			<li> <a href = "https://www.coursera.org/learn/blockchain-basics?">Blockchain Basics</a> </li>
+			<li> <a href = "https://www.coursera.org/specializations/excel?">Excel Skills for Business</a> </li>
+			<li> <a href = "https://www.coursera.org/specializations/algorithms">Algorithms</a> </li>
+			<li> <a href = "https://www.coursera.org/specializations/investment-management-python-machine-learning"></a>Investment Management with Python and Machine Learning</li>
 		</ul>
 	</div>
 </section>
