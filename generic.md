@@ -25,3 +25,26 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
+
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h2>Courses Taken</h2>
+		</header>
+		<p> While I do enjoy teaching, the reason I'm at IITB is because I'm a student. As a student, I've taken several interesting 'real-world' courses at IITB. Here is an exhaustive list, as of Spring 2020.
+		</p>
+		<ul>
+			<li> <b>Department of Mechanical Engineering</b> </li>
+			<ol>
+				<li>Strength of Materials</li>
+				<li>Mechanical Measurements</li>
+				<li>Manufacturing Processes (Theory + Lab)</li>
+				<li>Solid Mechanics (Theory + Lab)</li>
+				<li>Fluid Mechanics (Theory + Lab)</li>
+				<li>Thermodynamics</li>
+				<li>Structural Materials</li>
+				<li>Engineering Graphics and Drawing</li>
+				<li>Mechanical Workshop</li>
+		</ul>
+	</div>
+</section>
