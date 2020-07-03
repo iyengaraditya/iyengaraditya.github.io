@@ -35,7 +35,7 @@ nav-menu: true
 		</p>
 		<ul>
 			<li> <b>Department of Mechanical Engineering</b> </li>
-			<ol type = "1">
+			<ol style="list-style-type:upper-roman">
 				<li>Strength of Materials</li>
 				<li>Mechanical Measurements</li>
 				<li>Manufacturing Processes (Theory + Lab)</li>
