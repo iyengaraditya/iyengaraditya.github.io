@@ -16,6 +16,12 @@ nav-menu: true
 			<h2>Teaching</h2>
 		</header>
 		<blockquote> "Good teaching is one-fourths preparation and three-fourths theatre." - Gail Godwin
-		</blockquote>	
+		</blockquote>
+		<p> I've had the privilege of being a teaching assistant for a couple of courses so far during my short stay at IIT Bombay.
+		</p>
+		<ul>
+			<li> <b>ME 119 - Engineering Graphics and Drawing</b> (Spring 2020, Prof. A. Agrawal): My role included reviewing problem sets to be provided to the students, solving and subsequently grading them - all on a weekly basis. You can find problem sets, solutions and marking guidelines <a href="https://drive.google.com/drive/folders/1jKxjDiQwlpewWzul_nMjll318yU8TQFn">here</a>. </li>
+			<li> <b>MA 108 - Ordinary Differential Equations</b> (Summer 2019, Prof. G.K. Srinivasan): This position entailed mentoring and conducting tutorial sessions for a batch of 20 academically underperforming students over three weeks and grading weekly quizzes and an end-semester exam. Prof. Srinivasan had provided some excellent notes on the subject, replete with historical commentary. They can be found <a href="Notes.pdf">here</a>. </li>
+		</ul>
 	</div>
 </section>
