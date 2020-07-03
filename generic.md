@@ -47,9 +47,48 @@ nav-menu: true
 				</ol>
 			</li>
 			<li> <b>Department of Computer Science</b> <ol>
-				<li>Introduction to Machine Learning</li>
+				<li>Machine Learning</li>
 				<li>Computer Programming and Utilization</li>
 				</ol> </li>
+			<li> <b>Department of Systems and Control Engineering</b> <ol>
+				<li>Convex Optimization</li>
+				<li>Mathematical Structures for Control</li>
+				</ol> </li>
+			<li> <b>Department of Mathematics</b> <ol>
+				<li>Numerical Analysis</li>
+				<li>Ordinary Differential Equations</li>
+				<li>Linear Algebra</li>
+				<li>Vector Calculus</li>
+				</ol></li>
+			<li> <b>Industrial Engineering and Operations Research</b> <ol>
+				<li>Introduction to Stochastic Models</li>
+				</ol></li>
+			<li> <b>Department of Electrical Engineering</b> <ol>
+				<li>Electrical and Electronic Circuits</li>
+				</ol></li>
+			<li> <b>Department of Humanities and Social Sciences</b> <ol>
+				<li>Introduction to Microeconomics</li>
+				<li>Introduction to Macroeconomics</li>
+				</ol></li>
+			<li> <b>Department of Biosciences and Bioengineering</b> <ol>
+				<li>Molecular and Cellular Biology</li>
+				<li>Physical Biology</li>
+				<li>Biomedical Engineering</li>
+				</ol></li>
+			<li> <b>Department of Civil Engineering</b> <ol>
+				<li>Engineering Mechanics</li>
+				</ol></li>
+			<li> <b>Department of Physics</b> <ol>
+				<li>Electricity and Magnetism</li>
+				<li>Quantum Physics and Applications</li>
+				<li>Physics Lab</li>
+				</ol></li>
+			<li> <b>Department of Chemistry</b> <ol>
+				<li>Chemistry Lab</li>
+				<li>Introduction to Physical Chemistry</li>
+				<li>Introduction to Organic Chemistry</li>
+				<li>Introduction to Inorganic Chemistry</li>
+				</ol></li>
 		</ul>
 	</div>
 </section>
