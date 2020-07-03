@@ -47,6 +47,7 @@ nav-menu: true
 					<li>Mechanical Workshop</li>
 				</ol>
 			</li>
+			<li> <b>Department of Computer Science</b>
 		</ul>
 	</div>
 </section>
