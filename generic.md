@@ -34,7 +34,7 @@ nav-menu: true
 		<p> While I do enjoy teaching, the reason I'm at IITB is because I'm a student. As a student, I've taken several interesting 'real-world' courses at IITB. Here is an exhaustive list, as of Spring 2020.
 		</p>
 		<ul>
-			<li> <b>Department of Mechanical Engineering</b> </li>
+			<li> <b>Department of Mechanical Engineering</b>
 			<ol style="list-style-type:decimal";>
 				<li>Strength of Materials</li>
 				<li>Mechanical Measurements</li>
@@ -45,7 +45,7 @@ nav-menu: true
 				<li>Structural Materials</li>
 				<li>Engineering Graphics and Drawing</li>
 				<li>Mechanical Workshop</li>
-			</ol>
+			</ol> </li>
 		</ul>
 	</div>
 </section>
