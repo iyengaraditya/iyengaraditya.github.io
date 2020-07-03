@@ -45,6 +45,7 @@ nav-menu: true
 				<li>Structural Materials</li>
 				<li>Engineering Graphics and Drawing</li>
 				<li>Mechanical Workshop</li>
+			</ol>
 		</ul>
 	</div>
 </section>
