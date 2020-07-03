@@ -34,7 +34,7 @@ nav-menu: true
 		<p> While I do enjoy teaching, the reason I'm at IITB is because I'm a student. As a student, I've taken several interesting 'real-world' courses at IITB. Here is an exhaustive list, as of Spring 2020.
 		</p>
 		<ul>
-			<li> <b>Department of Mechanical Engineering</b> <ol style="list-style-type:decimal";>
+			<li> <b>Department of Mechanical Engineering</b> <ol>
 					<li>Strength of Materials</li>
 					<li>Mechanical Measurements</li>
 					<li>Manufacturing Processes (Theory + Lab)</li>
@@ -46,7 +46,10 @@ nav-menu: true
 					<li>Mechanical Workshop</li>
 				</ol>
 			</li>
-			<li> <b>Department of Computer Science</b>
+			<li> <b>Department of Computer Science</b> <ol>
+				<li>Introduction to Machine Learning</li>
+				<li>Computer Programming and Utilization</li>
+				</ol> </li>
 		</ul>
 	</div>
 </section>
