@@ -109,7 +109,7 @@ nav-menu: true
 			<li> <a href = "https://www.coursera.org/learn/blockchain-basics?">Blockchain Basics</a> </li>
 			<li> <a href = "https://www.coursera.org/specializations/excel?">Excel Skills for Business</a> </li>
 			<li> <a href = "https://www.coursera.org/specializations/algorithms">Algorithms</a> </li>
-			<li> <a href = "https://www.coursera.org/specializations/investment-management-python-machine-learning"></a>Investment Management with Python and Machine Learning</li>
+			<li> <a href = "https://www.coursera.org/specializations/investment-management-python-machine-learning">Investment Management with Python and Machine Learning</a></li>
 		</ul>
 	</div>
 </section>
