@@ -35,17 +35,18 @@ nav-menu: true
 		</p>
 		<ul>
 			<li> <b>Department of Mechanical Engineering</b>
-			<ol style="list-style-type:decimal";>
-				<li>Strength of Materials</li>
-				<li>Mechanical Measurements</li>
-				<li>Manufacturing Processes (Theory + Lab)</li>
-				<li>Solid Mechanics (Theory + Lab)</li>
-				<li>Fluid Mechanics (Theory + Lab)</li>
-				<li>Thermodynamics</li>
-				<li>Structural Materials</li>
-				<li>Engineering Graphics and Drawing</li>
-				<li>Mechanical Workshop</li>
-			</ol> </li>
+				<ol style="list-style-type:decimal";>
+					<li>Strength of Materials</li>
+					<li>Mechanical Measurements</li>
+					<li>Manufacturing Processes (Theory + Lab)</li>
+					<li>Solid Mechanics (Theory + Lab)</li>
+					<li>Fluid Mechanics (Theory + Lab)</li>
+					<li>Thermodynamics</li>
+					<li>Structural Materials</li>
+					<li>Engineering Graphics and Drawing</li>
+					<li>Mechanical Workshop</li>
+				</ol>
+			</li>
 		</ul>
 	</div>
 </section>
