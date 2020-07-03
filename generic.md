@@ -2,7 +2,7 @@
 layout: post
 title: Academics
 description:
-image: assets/images/pic11.jpg
+image: assets/images/acads.jpg
 nav-menu: true
 ---
 
