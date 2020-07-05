@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Projects
-description: Cool stuff I've been doing lately.
+description: Cool stuff I've been doing lately
 image: assets/images/projectsimg.jpg
 nav-menu: true
 ---
