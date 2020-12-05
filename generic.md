@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Academics
-description: All about courses, of course
+description: All about courses, of course!
 image: assets/images/acads.jpg
 nav-menu: true
 ---
