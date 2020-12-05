@@ -18,8 +18,6 @@ nav-menu: true
 		<p>
 			As an undergraduate student, I've been exploring several fields in order to understand where my interests lie.
 			<br>
-			As of now, my research interests mainly lie in the fields of <strong>Machine Learning</strong>,	<strong>Reinforcement Learning</strong>, <strong>Financial Modelling</strong>, <strong> Data Science </strong> and <strong> Fluid Mechanics </strong>.
-			<br>
 			Here are some of the projects I've undertaken over the course of my stay at IIT Bombay. Some of these are part of
 			coursework while others are fun, pet projects. Feel free to explore!
 		</p>
@@ -86,6 +84,18 @@ nav-menu: true
 
 <!-- Three -->
 <section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>Writings</h2>
+		<p>Here is some stuff that I've authored, on a pretty random range of topics.
+			<ul> 
+				<li>On the idea of the asset market as a game, and the modelling and identification of the equilibria of such a game. (co-authored) <a href="SC639report.pdf" >Click here.</a></li>
+				<li>On the impression of the social location of London, from a reading of Sherlock Holmes <a href="RHL.pdf">Click here.</a></li>
+				
+
+
+<!-- Four -->
+<section id="four">
 	<div class="inner">
 		<header class="major">
 			<h2>Other Projects</h2>
