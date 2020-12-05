@@ -87,10 +87,13 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h2>Writings</h2>
-		<p>Here is some stuff that I've authored, on a pretty random range of topics.
+		</header>
+		<p>Here is some stuff that I've authored, on a pretty random range of topics.</p>
 			<ul> 
 				<li>On the idea of the asset market as a game, and the modelling and identification of the equilibria of such a game. (co-authored) <a href="SC631_Project.pdf" >Click here.</a></li>
-				<li>On the impression of the social location of London, from a reading of Sherlock Holmes <a href="HS_305_Assignment_2A.pdf">Click here.</a></li>
+				<li>On the impression of the social location of London, from a reading of Sherlock Holmes <a href="HS_305_Assignment_2A.pdf">Click here.</a></li></ul>
+	</div>
+</section>
 				
 
 
