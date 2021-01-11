@@ -32,16 +32,20 @@ nav-menu: true
 		<header class="major">
 			<h2>Courses Taken</h2>
 		</header>
-		<p> While I do enjoy teaching, the reason I'm at IITB is because I'm a student. As a student, I've taken several interesting 'real-world' courses at IITB. Here is an exhaustive list, as of Spring 2020.
+		<p> While I do enjoy teaching, the reason I'm at IITB is because I'm a student. As a student, I've taken several interesting 'real-world' courses at IITB. Here is an exhaustive list, as of Spring 2020. May I also take this opportunity to redirect you to another website I'm maintaining, the <a href="https://mechdampiitb.github.io/">DAMP blog</a> for the Department of Mechanical Engineering, a one-stop for course reviews and other department-related experiences :). Go there after you've completed stalking me, the reason you were here in the first place.
 		</p>
 		<ul>
 			<li> <b>Department of Mechanical Engineering</b> <ol>
+				<li>Applied Thermodynamics</li>
+				<li>Kinematics and Dynamics of Machines (Theory + Lab)</li>
+				<li>Mathematical Methods in Engineering</li>
+				<li>Industrial Engineering and Operations Research</li>
 				<li>Microprocessors and Automatic Control</li>
-				<li>Heat Transfer</li>
+				<li>Heat Transfer (Theory + Lab)</li>
 				<li>Advanced Fluid Dynamics</li>
 				<li>Engineering Data Mining</li>
 					<li>Strength of Materials</li>
-					<li>Mechanical Measurements</li>
+					<li>Mechanical Measurements (Theory + Lab)</li>
 					<li>Manufacturing Processes (Theory + Lab)</li>
 					<li>Solid Mechanics (Theory + Lab)</li>
 					<li>Fluid Mechanics (Theory + Lab)</li>
@@ -52,10 +56,34 @@ nav-menu: true
 				</ol>
 			</li>
 			<li> <b>Department of Computer Science</b> <ol>
+				<li>Data Structures and Algorithms</li>
 				<li>Logic and Automata Theory</li>
 				<li>Machine Learning</li>
 				<li>Computer Programming and Utilization</li>
 				</ol> </li>
+			<li> <b>Department of Electrical Engineering</b> <ol>
+				<li>Markov Chains and Queueing Systems</li>
+				<li>Introduction to Electrical and Electronic Circuits</li>
+				</ol></li>
+			<li> <b>Department of Humanities and Social Sciences</b> <ol>
+				<li>Environmental Science</li>
+				<li>Reading Literature</li>
+				<li>Introduction to Microeconomics</li>
+				<li>Introduction to Macroeconomics</li>
+				</ol></li>
+			<li> <b>Department of Physics</b> <ol>
+				<li>Astrophysics</li>
+				<li>Electricity and Magnetism</li>
+				<li>Quantum Physics and Applications</li>
+				<li>Physics Lab</li>
+				</ol></li>
+			<li> <b>Center for Environmental Science and Engineering</b> <ol>
+				<li>Environmental Studies: Science and Engineering</li>
+				</ol></li>
+			<li> <b>Department of Civil Engineering</b> <ol>
+				<li>Engineering Law</li>
+				<li>Engineering Mechanics</li>
+				</ol></li>
 			<li> <b>Department of Systems and Control Engineering</b> <ol>
 				<li>Theory of Games and Information</li>
 				<li>Convex Optimization</li>
@@ -73,26 +101,10 @@ nav-menu: true
 			<li> <b>Center of Studies in Resource Engineering</b> <ol>
 				<li>Machine Learning for Remote Sensing</li>
 				</ol></li>
-			<li> <b>Department of Electrical Engineering</b> <ol>
-				<li>Electrical and Electronic Circuits</li>
-				</ol></li>
-			<li> <b>Department of Humanities and Social Sciences</b> <ol>
-				<li>Reading Literature</li>
-				<li>Introduction to Microeconomics</li>
-				<li>Introduction to Macroeconomics</li>
-				</ol></li>
 			<li> <b>Department of Biosciences and Bioengineering</b> <ol>
 				<li>Molecular and Cellular Biology</li>
 				<li>Physical Biology</li>
 				<li>Biomedical Engineering</li>
-				</ol></li>
-			<li> <b>Department of Civil Engineering</b> <ol>
-				<li>Engineering Mechanics</li>
-				</ol></li>
-			<li> <b>Department of Physics</b> <ol>
-				<li>Electricity and Magnetism</li>
-				<li>Quantum Physics and Applications</li>
-				<li>Physics Lab</li>
 				</ol></li>
 			<li> <b>Department of Chemistry</b> <ol>
 				<li>Chemistry Lab</li>
@@ -109,7 +121,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Online Courses</h2>
 		</header>
-		<p> I've always liked exploring new stuff online and quarantine has provided a golden opportunity to further that. Here is a selection of the courses/specializations I've completed (almost all of them are in the Summer of 2020).
+		<p> The Covid-19 Lockdown provided me a golden chance to expose myself to a variety of online resources, most of which have been instrumental for me to narrow down on a domain of interest. Here is a selection of the courses/specializations I've completed (almost all of them were done in the long, dreary Summer of 2020).
 		</p>
 		<ul>
 			<li> <a href = "https://www.coursera.org/specializations/jhu-data-science">Data Science Specialization</a> </li>
