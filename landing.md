@@ -28,6 +28,24 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
+			<img src="{% link assets/images/predmaint.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Predictive Maintenance for Aircraft Engines</h3>
+				</header>
+				<p>
+				Predictive maintenance is the next big thing in the IoT world, and is basically maintenance, but "not too early, not too late". This was an entrepreneurial project done as a part of the course ME781 (Engineering Data Mining), wherein we were required to prepare a business model and set up the technical infrastructure for a start-up that would benefit the engineering world. We chose the aviation industry, analysing aircraft sensor data using a multitude of machine learning algorithms. These results were presented in order to effectively predict failure of engines well in advance, thereby helping aircraft operators to schedule timely maintenance. This is arguably one of my most well documented things in life, let alone projects :-p. More about that here.
+				</p>
+				<ul class="actions">
+					<li><a href="https://drive.google.com/drive/folders/1b9OfmHCzAXHENngXIFYH16BNdLs6jshG?usp=sharing" class="button">Learn more!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
 			<img src="{% link assets/images/footballimage.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
