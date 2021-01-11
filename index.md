@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Aditya!'
 description: 'Welcome to my homepage'
-image: assets/images/mepic.jpg
+image: assets/images/newbanner.jpg
 author: "Aditya Iyengar"
 show_tile: false
 ---
