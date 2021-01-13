@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Elements
-nav-menu: false
-show_tile: false
+title: Notes
+nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
@@ -12,7 +12,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Notes</h1>
 		</header>
 
 <!-- Content -->
