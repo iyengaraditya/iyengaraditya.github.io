@@ -25,8 +25,7 @@ Feel free to use/refer to these, but beware that they haven't been subjected to 
 <ul>
 	<li> <a href="/notes/me308/ME308_L1.pdf">Lecture 1</a>: On the preliminaries of optimization (13/01)</li>
 </ul>
-<h4> EE621: Markov Chains and Queueing Theory (Fall 2021)
-<br>
+<h4> EE621: Markov Chains and Queueing Theory (Fall 2021)</h4>
 <ul>
 	<li> <a href="/notes/ee621/EE621_L1.pdf">Lecture 1</a>: A first stochastic process (11/01)</li>
 	<li> <a href="/notes/ee621/EE621_L2.pdf">Lecture 2</a>: Defining discrete time Markov chains (14/01)</li>
