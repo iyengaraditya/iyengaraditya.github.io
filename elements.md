@@ -24,6 +24,7 @@ Feel free to use/refer to these, but beware that they haven't been subjected to 
 <h6> OR Module </h6>
 <ul>
 	<li> <a href="/notes/me308/ME308_L1.pdf">Lecture 1</a>: On the preliminaries of optimization (13/01)</li>
+	<li> <a href="/notes/me308/ME308_L2.pdf">Lecture 2</a>: On convex geometries and convexity in optimization (15/01)</li>
 </ul>
 </div>
 <div>
