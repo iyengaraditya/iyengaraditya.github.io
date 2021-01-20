@@ -28,4 +28,3 @@ Feel free to use/refer to these, but beware that they haven't been subjected to 
 	<li> <a href="/notes/me308/ME308_L3.pdf">Lecture 3</a>: On the formulation of a mathematical programming problem (20/01)</li>
 </ul>
 </div>
-<div>
