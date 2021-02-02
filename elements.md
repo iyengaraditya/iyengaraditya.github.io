@@ -28,5 +28,6 @@ Feel free to use/refer to these, but beware that they haven't been subjected to 
 	<li> <a href="/notes/me308/ME308_L3.pdf">Lecture 3</a>: On the formulation of mathematical programming problems, in particular the Knapsack Problem (20/01)</li>
 	<li> Solutions to <a href="/notes/me308/ME308_P1.pdf">Problem Set 1</a>: On the formulation of linear programming problems (22/01)</li>
 	<li> <a href="/notes/me308/ME308_L4.pdf">Lecture 4</a>: An introduction to linear programming (27/01)</li>
+	<li> <a href="/notes/me308/ME308_L5.pdf">Lecture 5</a>: On broad categories of solution methods for linear programs (29/01)</li>
 </ul>
 </div>
